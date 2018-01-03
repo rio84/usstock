@@ -1,0 +1,7 @@
+{
+  "env":"dev",
+  "host":"",
+  "path":{
+    "log":"../logs/ox.adapter.log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name":"usstock",
+  "owner":"rio84",
+  "port":8800,
+  "deployDir":"/home/localhost",
+  "logsDir":"/root/logs"
+}
